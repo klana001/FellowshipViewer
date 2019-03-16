@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/FellowshipViewer"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Fellowship"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/KoTHComm"/>
+	<classpathentry kind="lib" path="lib/eclipse-collections-8.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/eclipse-collections-api-8.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
